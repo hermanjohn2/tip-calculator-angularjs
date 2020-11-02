@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tip-calculator"
+    }
+  },
+  "defaultProject": "tip-calculator",
+  "cli": {
+    "analytics": "2a7f4d47-1a5b-4549-84cd-55fefabf6c85"
+  }
 }
